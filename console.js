@@ -1,7 +1,6 @@
 // the hello world program
 console.log('Hello World');
 console.log('Hello World');//2nd time
-console.log('Hello World');
 const num1 = 5;
 const num2 = 3;
 
